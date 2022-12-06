@@ -15,4 +15,4 @@ testing one two three
 
 `123`
 this site was built using [ur mom](https://google.com)
-[second page](DavidJ9801.github.io/README.md)
+[second page](index.md)
