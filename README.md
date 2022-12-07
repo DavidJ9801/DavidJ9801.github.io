@@ -1,4 +1,4 @@
-# Introspection in Wonderful Fool
+# Introspection in <span style="color: #880D2C"> Wonderful Fool </span>
 
 #### By Nikhil Chainani, Maxwell Lin, and David Jin
 dodododododooooo dooooo doooo 
@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=e9mVfv3b-4E
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e9mVfv3b-4E/0.jpg)](https://www.youtube.com/watch?v=e9mVfv3b-4E)
 
 
-<span style="color: red"> Some red text </span>
+<span style="color: #880D2C"> Some red text </span>
 
 
 `rgb(9, 105, 218)`
