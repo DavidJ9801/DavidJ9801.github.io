@@ -1,4 +1,4 @@
-# Introspection in <span style="color: #880D2C"> Wonderful Fool </span>
+# <span style="color: #880D2C">|</span> Introspection in <span style="color: #880D2C"> Wonderful Fool </span>
 
 #### By Nikhil Chainani, Maxwell Lin, and David Jin
 dodododododooooo dooooo doooo 
@@ -37,6 +37,7 @@ https://www.youtube.com/watch?v=e9mVfv3b-4E
 
 
 <span style="color: #880D2C"> Some red text </span>
+<span style="color: #880D2C">|</span>
 
 
 `rgb(9, 105, 218)`
@@ -48,11 +49,11 @@ this site was built using [ur mom](https://google.com)
 [second page](second)
 [main](README.md)
 lets go real stuff:
-## section 2
+## <span style="color: #880D2C">|</span> section 2
 Since his inception in interwar imperial Japan, Endo caught no breaks from the brutality of the world - within and without his home country. Stricken with sickness and strife, Endo diverged from the cultural stress on the supremacy of strength in which he was steeped in favour of aiding the ailing. Acutely affected by the abhorrent aspects of society, he sought solace in the theistic strive for their notion of a unified goodness. Writing relentlessly, he produced with profound prolificity, thus making it probable that every piece present in his publications is purposeful. From this perspective, consider that he presents a panorama of problems in Wonderful Fool: Tomoe’s hollow materialism, Takamori’s aimlessness, Osako’s vanity, Endo’s despair, bystanders’ carelessness, common tribalism, Kanai and Kobayashi’s selfishness, and societal stagnation. Think. What common thread underlies all of these myriad manifestations of a misguided world?
 
 
-## Part 3 script
+## <span style="color: #880D2C">|</span> Part 3 script
 There are various ways of answering this - many of which are likely worth consideration - but the issue we presently address is introspection - specifically the lack thereof in Wonderful Fool.
 Before discussing it in the context of Wonderful Fool, however, the innate importance of introspection must be understood. Per Merriam-Webster, it is “a reflective looking inward: an examination of one’s own thoughts and feelings”. In short, it is a necessary component of significant growth as error analysis cannot truly function in its absence. Consider the following chain of thought:
 - Susciety consists of individual people
