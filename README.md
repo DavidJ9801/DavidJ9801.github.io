@@ -1,6 +1,6 @@
-# DavidJ9801.github.io
+# Introspection in Wonderful Fool
 
-### hi heading
+#### By Nikhil Chainani, Maxwell Lin, and David Jin
 dodododododooooo dooooo doooo 
 testing one two three
 `rgb(9, 105, 218)`
@@ -15,6 +15,16 @@ testing one two three
 - [x] doodoo
 
 - [ ] \(Optional) Open a followup issue
+
+footnotenesnnsenn [^1]
+
+lalalalalalala
+erwr
+
+[^1]: This foornote
+
+https://www.youtube.com/watch?v=e9mVfv3b-4E
+`{% include youtube.html id="e9mVfv3b-4E" %}`
 
 
 
