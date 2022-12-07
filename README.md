@@ -15,7 +15,7 @@ testing one two three
 
 `123`
 this site was built using [ur mom](https://google.com)
-[second page](README.md)
+[second page](second)
 
 lets go real stuff:
 ### section 2
