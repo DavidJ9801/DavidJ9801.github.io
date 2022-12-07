@@ -1,3 +1,5 @@
+markdown: GFM
+title: ''
 # <span style="color: #880D2C">|</span> Introspection in <span style="color: #880D2C"> Wonderful Fool </span>
 
 #### By Nikhil Chainani, Maxwell Lin, and David Jin
