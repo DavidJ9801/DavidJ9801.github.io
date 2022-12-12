@@ -65,6 +65,10 @@ this site was built using [ur mom](https://google.com)
 [second page](second)
 [main](README.md)
 lets go real stuff:
+
+## <span style="color: #880D2C">|</span> Context
+{% include youtube.html id="Qk-y59Zs-rw" %}
+
 ## <span style="color: #880D2C">|</span> Author
 Since his inception in interwar imperial Japan, Endo caught no breaks from the brutality of the world - within and without his home country. Stricken with sickness and strife, Endo diverged from the cultural stress on the supremacy of strength in which he was steeped in favour of aiding the ailing. Acutely affected by the abhorrent aspects of society, he sought solace in the theistic strive for their notion of a unified goodness. Writing relentlessly, he produced with profound prolificity, thus making it probable that every piece present in his publications is purposeful. From this perspective, consider that he presents a panorama of problems in Wonderful Fool: Tomoe’s hollow materialism, Takamori’s aimlessness, Osako’s vanity, Endo’s despair, bystanders’ carelessness, common tribalism, Kanai and Kobayashi’s selfishness, and societal stagnation. Think. What common thread underlies all of these myriad manifestations of a misguided world?
 
@@ -98,6 +102,9 @@ Works representative of the foundations of culture and society have, across temp
 [Example 1](https://www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23/)
 
 [Example 2](https://www.sciencedirect.com/science/article/pii/S0012160619303355?via%3Dihub)
+
+## <span style="color: #880D2C">|</span> Analysis
+<iframe width="250" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## <span style="color: #880D2C">|</span> Conclusion
 All that said, it’s worth noting that the role of introspection in Wonderful Fool is shaped - and limited - by Endo’s perception of a unified good to which all can and ideally would aspire, a divine light shining in the dark. In Wonderful Fool, the lack of introspection is a barrier specifically to the trust and compassion Gaston, the “wonderful” fool and hero, embodies. In reality, introspection is not so narrow; it is a route to self-knowledge, which is prerequisite to purposeful, fulfilling pursuits and meaningful growth. Many may find that this process leads them towards the same light Endo sees; others go elsewhere. That is to say, it is a means to a relative and individual, rather than an ideologically monolithic, end. So when next you find yourself discontent, consider taking a moment to consider why (and what might be done about it). It is neither hard nor particularly complex, yet many people still manage to be NPCs.
