@@ -21,7 +21,7 @@ Since his inception in interwar imperial Japan, Endo caught no breaks from the b
 ## <span style="color: #880D2C">|</span> Introspection
 There are various ways of answering this - many of which are likely worth consideration - but the issue we presently address is introspection - specifically the lack thereof in Wonderful Fool.
 Before discussing it in the context of Wonderful Fool, however, the innate importance of introspection must be understood. Per Merriam-Webster[^6], it is “a reflective looking inward: an examination of one’s own thoughts and feelings”. In short, it is a necessary component of significant growth as error analysis cannot truly function in its absence. Consider the following chain of thought:
-- Susciety consists of individual people
+- Society consists of individual people
 - People can think about themselves (i.e. introspection)
 - People make errors
 - People can learn and improve from their errors
