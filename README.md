@@ -66,7 +66,7 @@ this site was built using [ur mom](https://google.com)
 [main](README.md)
 lets go real stuff:
 
-## <span style="color: #880D2C">|</span> Context
+## <span style="color: #880D2C">|</span> Misguidance
 {% include youtube.html id="Qk-y59Zs-rw" %}
 
 ## <span style="color: #880D2C">|</span> Author
