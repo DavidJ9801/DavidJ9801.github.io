@@ -64,16 +64,19 @@ Before discussing it in the context of Wonderful Fool, however, the innate impor
 - This is applicable to literally every facet of every person’s life as it is a fundamental component of human development
 - Aggregated, these improvements (or lack thereof) make more competent members of susciety (or less)
 - Moreover, this effect on susciety is self-reinforcing:
-- Person is idiotic -> person behaves idiotically -> idiotic environment -> more idiots
-- Less idiotic person -> less idiotic susciety -> less idiotic environment -> fewer idiots
+ 
+    Person is idiotic -> person behaves idiotically -> idiotic environment -> more idiots
+    Less idiotic person -> less idiotic susciety -> less idiotic environment -> fewer idiots
+    
 So, in terms of global issue criteria:
 1. Its significance is at the scale of anything and everything that can be affected by sentient beings
 2. It is not only transnational but also transcends time and space altogether, seeing as it is an innately conceptual force
+Transnational scale https://www.frontiersin.org/articles/10.3389/fnint.2012.00080/full
 3. It has innumerable impacts on every facet of life for any sentient creature that has existed long enough to make and learn from at least one error
-https://www.frontiersin.org/articles/10.3389/fnint.2012.00080/full
+
 Frankly, the evidence ought to speak for itself, but in case not - 
-Representative works of foundations of culture and society have, across temporal and spatial barriers alike, reflected the historically-sound rise in introspection which has been integral to the very roots of civilization and its gradual development. Though logic alone would suffice to demonstrate its scale and significance, empirical evidence of these does not get much clearer than this. So too is the case with everyday impacts, but for seeing this more concretely, note that introspection necessarily affects perception and perception necessarily affects behaviour, which, in turn, determines life experience. As you read about the drastically diverging directions of these two individuals’ lives, consider how each could have played out differently, had they reflected more or less.
+Works representative of the foundations of culture and society have, across temporal and spatial barriers alike, reflected the historically-sound rise in introspection which has been integral to the very roots of civilization and its gradual development. Though logic alone would suffice to demonstrate its scale and significance, empirical evidence of these does not get much clearer than this. So too is the case with everyday impacts, but to see this more concretely, note that introspection necessarily affects perception and perception necessarily affects behaviour, which, in turn, determines life experience. As you read about the drastically diverging directions of these two individuals’ lives, consider how each could have played out differently, had they reflected more or less.
 
-https://www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23/
+Example 1 https://www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23/
 
-https://pubmed.ncbi.nlm.nih.gov/32098670/
+Example 2 https://www.sciencedirect.com/science/article/pii/S0012160619303355?via%3Dihub
