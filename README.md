@@ -1,45 +1,10 @@
 # <span style="color: #880D2C">|</span> Introspection in <span style="color: #880D2C"> Wonderful Fool </span>
 
 #### By Nikhil Chainani, Maxwell Lin, and David Jin
-dodododododooooo dooooo doooo 
-testing one two three
-`rgb(9, 105, 218)`
-***bold***
-> quote
-
-
 
 
 ![This is an image](wonderfool.jpg)
 
-
-
-
-DUNNNNNNNNNNNNNNNN.mp3?raw=true
-
-https://github.com/DavidJ9801/DavidJ9801.github.io/raw/main/DUNNNNNNNNNNNNNNNN.mp3?raw=true
-
-[link](https://github.com/DavidJ9801/DavidJ9801.github.io/raw/main/DUNNNNNNNNNNNNNNNN.mp3?raw=true}
-
-
-
-
-
-- 32312
-- 23123
-- 23123
-- [x] doodoo
-
-- [ ] \(Optional) Open a followup issue
-
-
-
-lalalalalalala
-erwr
-
-
-
-https://www.youtube.com/watch?v=e9mVfv3b-4E
 
 {% raw %} {% include youtube.html id="Qk-y59Zs-rw" %}
 {% endraw %}
@@ -49,22 +14,7 @@ https://www.youtube.com/watch?v=e9mVfv3b-4E
 <iframe width="250" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e9mVfv3b-4E/0.jpg)](https://www.youtube.com/watch?v=e9mVfv3b-4E)
 
-
-<span style="color: #880D2C"> Some red text </span>
-<span style="color: #880D2C">|</span>
-
-
-`rgb(9, 105, 218)`
-**cooliois is _cool_ los**
-`#0d1117`
-
-`123`
-this site was built using [ur mom](https://google.com)
-[second page](second)
-[main](README.md)
-lets go real stuff:
 
 ## <span style="color: #880D2C">|</span> Misguidance
 {% include youtube.html id="Qk-y59Zs-rw" %}
@@ -110,6 +60,8 @@ Works representative of the foundations of culture and society have, across temp
 
 ## <span style="color: #880D2C">|</span> Don't be an NPC
 All that said, it’s worth noting that the role of introspection in Wonderful Fool is shaped - and limited - by Endo’s perception of a unified good to which all can and ideally would aspire, a divine light shining in the dark. In Wonderful Fool, the lack of introspection is a barrier specifically to the trust and compassion Gaston, the “wonderful” fool and hero, embodies. In reality, introspection is not so narrow; it is a route to self-knowledge, which is prerequisite to purposeful, fulfilling pursuits and meaningful growth. Many may find that this process leads them towards the same light Endo sees; others go elsewhere. That is to say, it is a means to a relative and individual, rather than an ideologically monolithic, end. So when next you find yourself discontent, consider taking a moment to consider why (and what might be done about it). It is neither hard nor particularly complex, yet many people still manage to be NPCs.
+
+
 
 
 [^1]: Alliance for Human Research Protection – Advancing Voluntary, Informed Consent to Medical Intervention. ahrp.org.
