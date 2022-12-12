@@ -88,10 +88,9 @@ Before discussing it in the context of Wonderful Fool, however, the innate impor
 So, in terms of global issue criteria:
 1. Its significance is at the scale of anything and everything that can be affected by sentient beings
 2. It is not only transnational but also transcends time and space altogether, seeing as it is an innately conceptual force
+3. It has innumerable impacts on every facet of life for any sentient creature that has existed long enough to make and learn from at least one error
 
 [Transnational scale](https://www.frontiersin.org/articles/10.3389/fnint.2012.00080/full)
-
-3. It has innumerable impacts on every facet of life for any sentient creature that has existed long enough to make and learn from at least one error
 
 Frankly, the evidence ought to speak for itself, but in case not - 
 Works representative of the foundations of culture and society have, across temporal and spatial barriers alike, reflected the historically-sound rise in introspection which has been integral to the very roots of civilization and its gradual development. Though logic alone would suffice to demonstrate its scale and significance, empirical evidence of these does not get much clearer than this. So too is the case with everyday impacts, but to see this more concretely, note that introspection necessarily affects perception and perception necessarily affects behaviour, which, in turn, determines life experience. As you read about the drastically diverging directions of these two individuals’ lives, consider how each could have played out differently, had they reflected more or less.
