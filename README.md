@@ -8,8 +8,7 @@ testing one two three
 > quote
 
 ![This is an image](wonderfool.jpg)
-{% audio Malik Bash - Malik Bash- Ghosts (Radio Edit).mp3
- %}
+
 - 32312
 - 23123
 - 23123
