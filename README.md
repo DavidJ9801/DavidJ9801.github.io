@@ -6,16 +6,6 @@
 ![This is an image](wonderfool.jpg)
 
 
-{% raw %} {% include youtube.html id="Qk-y59Zs-rw" %}
-{% endraw %}
-
-{% include youtube.html id="Qk-y59Zs-rw" %}
-
-<iframe width="250" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
 ## <span style="color: #880D2C">|</span> Misguidance
 {% include youtube.html id="Qk-y59Zs-rw" %}
 
