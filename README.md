@@ -27,11 +27,11 @@ Before discussing it in the context of Wonderful Fool, however, the innate impor
 - People can learn and improve from their errors
 - This learning is most effective when the person thinks about why/how they erred (again, introspection)
 - This is applicable to literally every facet of every person’s life as it is a fundamental component of human development
-- Aggregated, these improvements (or lack thereof) make more competent members of susciety (or less)
-- Moreover, this effect on susciety is self-reinforcing:
+- Aggregated, these improvements (or lack thereof) make more competent members of society (or less)
+- Moreover, this effect on society is self-reinforcing:
  
     Person is idiotic -> person behaves idiotically -> idiotic environment -> more idiots
-    Less idiotic person -> less idiotic susciety -> less idiotic environment -> fewer idiots
+    Less idiotic person -> less idiotic society -> less idiotic environment -> fewer idiots
     
 So, in terms of global issue criteria:
 1. Its significance is at the scale of anything and everything that can be affected by sentient beings
