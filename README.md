@@ -74,6 +74,8 @@ Even with Endo (the character), who shows himself to be quite thoughtful in plan
 All that said, it’s worth noting that the role of introspection in Wonderful Fool is shaped - and limited - by Endo’s perception of a unified good to which all can and ideally would aspire, a divine light shining in the dark. In Wonderful Fool, the lack of introspection is a barrier specifically to the trust and compassion Gaston, the “wonderful” fool and hero, embodies. In reality, introspection is not so narrow; it is a route to self-knowledge, which is prerequisite to purposeful, fulfilling pursuits and meaningful growth. Many may find that this process leads them towards the same light Endo sees; others go elsewhere. That is to say, it is a means to a relative and individual, rather than an ideologically monolithic, end. So when next you find yourself discontent, consider taking a moment to consider why (and what might be done about it). It is neither hard nor particularly complex, yet many people still manage to be NPCs.
 
 
+### You can watch this for fun
+{% include youtube.html id="4Qi-JrE3a6c" %}
 
 
 [^1]: Alliance for Human Research Protection – Advancing Voluntary, Informed Consent to Medical Intervention. ahrp.org.
