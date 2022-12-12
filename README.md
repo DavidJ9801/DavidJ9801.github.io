@@ -78,7 +78,7 @@ Since his inception in interwar imperial Japan, Endo caught no breaks from the b
 
 ## <span style="color: #880D2C">|</span> Introspection
 There are various ways of answering this - many of which are likely worth consideration - but the issue we presently address is introspection - specifically the lack thereof in Wonderful Fool.
-Before discussing it in the context of Wonderful Fool, however, the innate importance of introspection must be understood. Per Merriam-Webster, it is “a reflective looking inward: an examination of one’s own thoughts and feelings”. In short, it is a necessary component of significant growth as error analysis cannot truly function in its absence. Consider the following chain of thought:
+Before discussing it in the context of Wonderful Fool, however, the innate importance of introspection must be understood. Per Merriam-Webster[^6], it is “a reflective looking inward: an examination of one’s own thoughts and feelings”. In short, it is a necessary component of significant growth as error analysis cannot truly function in its absence. Consider the following chain of thought:
 - Susciety consists of individual people
 - People can think about themselves (i.e. introspection)
 - People make errors
@@ -96,14 +96,14 @@ So, in terms of global issue criteria:
 2. It is not only transnational but also transcends time and space altogether, seeing as it is an innately conceptual force
 3. It has innumerable impacts on every facet of life for any sentient creature that has existed long enough to make and learn from at least one error
 
-[Transnational scale](https://www.frontiersin.org/articles/10.3389/fnint.2012.00080/full)
+[Transnational scale](https://www.frontiersin.org/articles/10.3389/fnint.2012.00080/full)[^2]
 
 Frankly, the evidence ought to speak for itself, but in case not - 
 Works representative of the foundations of culture and society have, across temporal and spatial barriers alike, reflected the historically-sound rise in introspection which has been integral to the very roots of civilization and its gradual development. Though logic alone would suffice to demonstrate its scale and significance, empirical evidence of these does not get much clearer than this. So too is the case with everyday impacts, but to see this more concretely, note that introspection necessarily affects perception and perception necessarily affects behaviour, which, in turn, determines life experience. As you read about the drastically diverging directions of these two individuals’ lives, consider how each could have played out differently, had they reflected more or less.
 
-[Example 1](https://www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23/)
+[Example 1](https://www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23/)[^9]
 
-[Example 2](https://www.sciencedirect.com/science/article/pii/S0012160619303355?via%3Dihub)
+[Example 2](https://www.sciencedirect.com/science/article/pii/S0012160619303355?via%3Dihub)[^10]
 
 ## <span style="color: #880D2C">|</span> Analysis
 <iframe width="250" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
