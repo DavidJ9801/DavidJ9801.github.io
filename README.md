@@ -32,12 +32,12 @@ https://github.com/DavidJ9801/DavidJ9801.github.io/raw/main/DUNNNNNNNNNNNNNNNN.m
 
 - [ ] \(Optional) Open a followup issue
 
-footnotenesnnsenn [^100]
+
 
 lalalalalalala
 erwr
 
-[^100]: This foornote
+
 
 https://www.youtube.com/watch?v=e9mVfv3b-4E
 
