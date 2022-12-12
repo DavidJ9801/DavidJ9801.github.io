@@ -8,7 +8,7 @@ testing one two three
 > quote
 
 ![This is an image](wonderfool.jpg)
-
+{% audio myfile.mp3 %}
 - 32312
 - 23123
 - 23123
