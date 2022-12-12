@@ -66,7 +66,7 @@ All that said, it’s worth noting that the role of introspection in Wonderful F
 
 [^1]: Alliance for Human Research Protection – Advancing Voluntary, Informed Consent to Medical Intervention. ahrp.org.
 [^2]: Diuk, Carlos. “A Quantitative Philology of Introspection.” Frontiers, 24 Sept. 2012, www.frontiersin.org/articles/10.3389/fnint.2012.00080/full.
-[^3]: Footage Farm. “Sino-Japanese War - 250022-08 | Footage Farm Ltd.” YouTube, 11 Oct. 2018, www.youtube.com/watch?v=r98vY-7Wz5k.
+[^3]: Footage Farm. “Sino-Japanese War - 250022-08 Footage Farm Ltd.” YouTube, 11 Oct. 2018, www.youtube.com/watch?v=r98vY-7Wz5k.
 [^4]: Garðar Breki. “The Battle of Port Arthur(1980) Battle of 174 Meter Hill.” YouTube, 5 Apr. 2020, www.youtube.com/watch?v=dABx8wXXy18.
 [^5]: “Home.” HREC, holodomor.ca.
 [^6]: “Introspection Definition & Meaning.” Merriam-Webster, Merriam-Webster, https://www.merriam-webster.com/dictionary/introspection. 
@@ -74,5 +74,5 @@ All that said, it’s worth noting that the role of introspection in Wonderful F
 [^8]: Pathé, British. “British Pathé.” British Pathe, www.britishpathe.com.
 [^9]: Paul, Jay, and Nathan Layne. “Walmart Supervisor Opens Fire on Virginia Co-workers, Killing 6 and Himself.” Reuters, 25 Nov. 2022, www.reuters.com/world/us/deaths-reported-virginia-walmart-gunman-dead-police-say-2022-11-23.
 [^10]: R. Arnette Envelope, Christopher. “What Do You Want to Do with Your Life? A Lesson in Introspection.” Developmental Biology, Elsevier, 22 Feb. 2020, https://www.sciencedirect.com/science/article/pii/S0012160619303355?via=ihub. 
-[^11]: Royal Museums Greenwich | Home. www.rmg.co.uk.
+[^11]: Royal Museums Greenwich Home. www.rmg.co.uk.
 [^12]: United States Holocaust Memorial Museum. www.ushmm.org.
