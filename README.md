@@ -24,9 +24,7 @@ https://github.com/DavidJ9801/DavidJ9801.github.io/raw/main/DUNNNNNNNNNNNNNNNN.m
 
 [link](https://github.com/DavidJ9801/DavidJ9801.github.io/raw/main/DUNNNNNNNNNNNNNNNN.mp3?raw=true}
 
-https://drive.google.com/file/d/18ErkTjV9A6upyuCHtNy0sAYrV4PXQQYD/view
 
-[asd](https://drive.google.com/file/d/18ErkTjV9A6upyuCHtNy0sAYrV4PXQQYD/view)
 
 
 
@@ -51,7 +49,7 @@ https://www.youtube.com/watch?v=e9mVfv3b-4E
 
 {% include youtube.html id="Qk-y59Zs-rw" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JLMbpiywVxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/e9mVfv3b-4E/0.jpg)](https://www.youtube.com/watch?v=e9mVfv3b-4E)
