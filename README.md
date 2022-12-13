@@ -51,14 +51,31 @@ Works representative of the foundations of culture and society have, across temp
 <iframe width="250" height="50" src="https://www.youtube.com/embed/aQQO0w9aMhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
+<details>
  
   <summary>Transcript</summary>
  
  
-  1. Now, within the bounds of Wonderful Fool, Endo submerges his story in a smothering silence, subtly suggesting through the near total absence of introspection - subverted solely by the sublime saviour Gaston - the necessity of it to surpass susciety’s cyclical sickness. This is best understood from the thematic framework that Wonderful Fool serves to illustrate how susciety desperately needs compassion to fill the void left by modern materialism but tragically lacks it.
+  1. Now, within the bounds of Wonderful Fool, Endo submerges his story in a smothering silence, subtly suggesting through the near total absence of introspection -        subverted solely by the sublime saviour Gaston - the necessity of it to surpass susciety’s cyclical sickness. This is best understood from the thematic framework      that Wonderful Fool serves to illustrate how susciety desperately needs compassion to fill the void left by modern materialism but tragically lacks it.
 
  
-  2. This lack cannot be entirely accounted for by any single factor, but the corresponding absence of introspection undoubtedly precludes the deep understanding required to resolve it. It is for this reason that even after the coming of a saviour - such as Gaston, Kaguya, or, in the Christian pantheon, Je-sus himself - people still regress after their saviour must inevitably return to whence they came. Such people may be temporarily inspired to act differently, but if they do not reflect to understand the purpose behind that action, it tends to falter. 
+  2. This lack cannot be entirely accounted for by any single factor, but the corresponding absence of introspection undoubtedly precludes the deep understanding            required to resolve it. It is for this reason that even after the coming of a saviour - such as Gaston, Kaguya, or, in the Christian pantheon, Je-sus himself -        people still regress after their saviour must inevitably return to whence they came. Such people may be temporarily inspired to act differently, but if they do        not reflect to understand the purpose behind that action, it tends to falter. 
 
  
   3. From the exposition, Endo wastes no time establishing the multitude of ills inflicted by people’s misguidance: even in the first paragraph, the pleasant mood established by the visual imagery of blooming trees is immediately interrupted by the discordant voice of Tomoe, followed in near agonizing detail with Takamori’s strategy for dealing with his sister, drawing out the pacing to match Takamori’s sloth and give readers time to realize how purposeless he must be for his procrastination to be his defining characteristic. Endo further frames the two foils with an astute allusion to their namesakes, relative to whom they are measured. In so doing, he directs focus to the relatively abstract idealistic layer of their character, making their less concrete but no less consequential shortcomings more apparent as their clashes continue ceaselessly for the entirety of the next 6 pages. Undoubtedly, readers are meant to note how pitiful it is for Takamori to have nothing more important to think about than his sister’s annoyances and for Tomoe, despite her wealth, to be so discontent as to be angered by her brother’s inadequacy. Endo goes further to make it excessively evident how aimless Takamori is by satirically labeling his reach for a cigarette a “strong act of will” and explicitly stating how this lie-in, rather than any true purpose, is what keeps him going throughout the work week. Tomoe, on the other hand, is shown to be self-motivated in her career pursuits and yet the inordinate anger with which she snaps at him, as Endo illustrates through the exclamation marks used almost exclusively by Tomoe, strongly suggests she is not truly satisfied. Critically, at no point in their responses to their bouts does either sibling think about how they might improve themselves. Their failure, above all, lies in their internal blindness and thus they learn nothing - neither the compassion Endo promotes through Gaston nor even something selfishly satisfying enough to render their petty squabbles as inconsequential to their eyes as those of the reader. Though entirely implied so far, this interpretation rests on the omniscient point of view from which Endo, an exceptionally thorough author, writes. While an absence of introspection would be meaningless in a more limited point of view or from an author that feasibly might neglect rather than deliberately omit such details, it speaks tremendous volumes in Wonderful Fool. Furthermore, Endo overtly references internal depth when, on page 52, he has Takamori point out with somewhat uncharacteristically figurative language that Gaston “may be a man as deep as the ocean, who doesn’t get hung up on all these trivialities”, simultaneously drawing attention to one of Gaston’s distinguishing features and creating the transitory impression of lasting character development before Takamori shatters any such illusion by pivoting this comment into nothing more than another spite toward Tomoe. Here, as previously established, they fail to truly learn from Gaston because they seemingly see only externalities. This trend is consistent across all characters save Gaston, so they will be covered more rapidly:
